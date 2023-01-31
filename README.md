@@ -16,5 +16,5 @@ bash -c "$(wget -qO- https://raw.githubusercontent.com/XstepAhead/Xray/main/xray
 bash -c "$(wget -qO- https://raw.githubusercontent.com/XstepAhead/Xray/main/update)"
 ```
 ### Screenshot
-![SS1](https://raw.githubusercontent.com/XstepAhead/main/Ss1.jpg)
-![SS2](https://raw.githubusercontent.com/XstepAhead/main/Ss2.jpg)
+![SS2](https://github.com/XstepAhead/Xray/raw/main/Ss2.jpg)
+![SS1](https://github.com/XstepAhead/Xray/raw/main/Ss1.jpg)
