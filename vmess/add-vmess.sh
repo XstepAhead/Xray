@@ -152,7 +152,7 @@ ISP=$(cat /usr/local/etc/xray/org)
 CITY=$(cat /usr/local/etc/xray/city)
 systemctl restart xray
 clear
-echo -e "`——————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
+echo -e "——————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
 echo -e "Vmess Account" | tee -a /user/log-vmess-$user.txt
 echo -e "——————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
 echo -e "Remarks       : $user" | tee -a /user/log-vmess-$user.txt
@@ -180,7 +180,7 @@ echo -e "———————————————————————�
 echo -e "Format Clash  : http://$domain:8000/vmess/vmess-$user.txt" | tee -a /user/log-vmess-$user.txt
 echo -e "——————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
 echo -e "Expired On    : $exp" | tee -a /user/log-vmess-$user.txt
-echo -e "——————————————————————————————${NC}`" | tee -a /user/log-vmess-$user.txt
+echo -e "——————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
 echo " " | tee -a /user/log-vmess-$user.txt
 echo " " | tee -a /user/log-vmess-$user.txt
 echo " " | tee -a /user/log-vmess-$user.txt
