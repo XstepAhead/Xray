@@ -94,7 +94,7 @@ echo ""
 menu ;;
 15) clear ; xraymod ;;
 16) clear ; xrayofficial ;;
+17) clear ; update ;;
 x) exit ;;
 *) echo -e "${YB}salah input${NC}" ; sleep 1 ; menu ;;
-17) clear ; update ;;
 esac
