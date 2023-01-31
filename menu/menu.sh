@@ -65,7 +65,7 @@ echo -e " ${MB}[8]${NC} ${YB}Log Create Account${NC}  ${MB}[13]${NC} ${YB}DNS Se
 echo -e " ${MB}[9]${NC} ${YB}Speedtest${NC}           ${MB}[14]${NC} ${YB}Check DNS Status${NC}"
 echo -e " ${MB}[10]${NC} ${YB}Change Domain${NC}      ${MB}[15]${NC} ${YB}Change Xray-core Mod${NC}"
 echo -e " ${MB}[11]${NC} ${YB}Cert Acme.sh${NC}       ${MB}[16]${NC} ${YB}Change Xray-core Official${NC}"
-echo -e " ${MB}[12]${NC} ${YB}About Script${NC}"
+echo -e " ${MB}[12]${NC} ${YB}About Script${NC}       ${MB}[17]${NC} ${YB}Update Script${NC}"
 echo -e "${BB}————————————————————————————————————————————————————————${NC}"
 echo -e ""
 read -p " Select Menu :  "  opt
@@ -96,4 +96,5 @@ menu ;;
 16) clear ; xrayofficial ;;
 x) exit ;;
 *) echo -e "${YB}salah input${NC}" ; sleep 1 ; menu ;;
+17) clear ; update ;;
 esac
