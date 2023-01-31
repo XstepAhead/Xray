@@ -171,7 +171,7 @@ echo -e "Path          : /(multipath) • ubah suka-suka" | tee -a /user/log-vme
 echo -e "ServiceName   : vmess-grpc" | tee -a /user/log-vmess-$user.txt
 echo -e "Alpn          : h2, http/1.1" | tee -a /user/log-vmess-$user.txt
 echo -e "——————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
-echo -e "Link TLS      : $vmesslink1" | tee -a /user/log-vmess-$user.txt
+echo -e "Link TLS      : `$vmesslink1`" | tee -a /user/log-vmess-$user.txt
 echo -e "——————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
 echo -e "Link NTLS     : $vmesslink2" | tee -a /user/log-vmess-$user.txt
 echo -e "——————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
