@@ -1,3 +1,38 @@
-z="
-";fBz=' Men';HBz=' "';vBz=' ; a';yBz='exit';vz='MB}[';FBz='owso';oz='enu ';OBz='"';dz='——${';nz='ks M';ZCz='*) e';yz='${YB';DCz='rial';ABz='}Cre';NCz='4) c';SCz='ek-s';qz='---$';ICz=' ; e';Dz='DEFB';FCz=' exi';kBz='" Se';CCz=' ; t';QBz='}Ext';Qz='4;1m';Mz='2;1m';RBz='end ';wBz='dd-s';sBz='t in';dCz='h te';hCz='p 1 ';YBz='ser ';fCz='" ; ';Xz='r';GBz='cks$';NBz='ks${';Nz='YB='\''';mz='wsoc';JBz='}Tri';Iz='\e[3';Uz='WB='\''';ACz=' ;;';Yz='echo';hBz='C}"';jz='----';TBz='}Del';mCz='esac';tBz='1) c';lz='hado';Fz=''\''\e[';JCz='xten';BBz='ate ';aCz='cho ';YCz='x) e';gCz='slee';jCz='adow';xBz='s ; ';fz='"   ';KCz='d-ss';DBz='unt ';bz='B}——';ZBz='Logi';TCz='0) c';Vz='7;1m';hz='  ${';Az='NC='\''';IBz='2]${';iz='WB}-';jBz=' -p ';cz='————';lBz='lect';cCz='sala';XCz=';';Jz='1;1m';uBz='lear';oBz=' "  ';eCz='kan ';PCz='el-s';LCz='xit ';PBz='3]${';VBz='5]${';pBz='opt';gz='    ';UCz=' ; m';LBz='ccou';VCz='; ex';sz='   "';UBz='ete ';lCz='s ;;';ECz='ss ;';BCz='2) c';pz='] --';iBz='read';rz='{NC}';gBz='u${N';kCz='sock';Cz='m'\''';bCz='-e "';Sz='5;1m';dBz='}Bac';Rz='MB='\''';Oz='3;1m';mBz=' men';Zz=' -e ';iCz='; sh';Wz='clea';OCz=' ; d';Lz='GB='\''';bBz='C} "';GCz='t ;;';Ez='OLD=';cBz='0]${';Hz='RB='\''';Bz='\e[0';tz='""';CBz='Acco';QCz='5) c';MCz=';;';Gz='39;1';WCz='it ;';MBz='nt S';Pz='BB='\''';KBz='al A';SBz='4]${';RCz=' ; c';eBz='k To';kz=' [ S';qBz='case';nBz='u : ';WBz='}Che';wz='1]${';az='"${B';ez='NC}"';rBz=' $op';XBz='ck U';aBz='n${N';HCz='3) c';Tz='CB='\''';EBz='Shad';xz='NC} ';Kz=''\''';uz='" ${';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Cz$z$Hz$Iz$Jz$Kz$z$Lz$Iz$Mz$Kz$z$Nz$Iz$Oz$Kz$z$Pz$Iz$Qz$Kz$z$Rz$Iz$Sz$Kz$z$Tz$Iz$Sz$Kz$z$Uz$Iz$Vz$Kz$z$Wz$Xz$z$Yz$Zz$az$bz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$dz$ez$z$Yz$Zz$fz$gz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$gz$gz$sz$z$Yz$Zz$az$bz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$dz$ez$z$Yz$Zz$tz$z$Yz$Zz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$rz$HBz$z$Yz$Zz$uz$vz$IBz$xz$yz$JBz$KBz$LBz$MBz$lz$mz$NBz$xz$OBz$z$Yz$Zz$uz$vz$PBz$xz$yz$QBz$RBz$CBz$DBz$EBz$FBz$GBz$rz$HBz$z$Yz$Zz$uz$vz$SBz$xz$yz$TBz$UBz$CBz$DBz$EBz$FBz$GBz$rz$HBz$z$Yz$Zz$uz$vz$VBz$xz$yz$WBz$XBz$YBz$ZBz$aBz$bBz$z$Yz$Zz$tz$z$Yz$Zz$uz$vz$cBz$xz$yz$dBz$eBz$fBz$gBz$hBz$z$Yz$Zz$tz$z$Yz$Zz$az$bz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$dz$ez$z$Yz$Zz$tz$z$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$z$Yz$Zz$tz$z$qBz$rBz$sBz$z$tBz$uBz$vBz$wBz$xBz$yBz$ACz$z$BCz$uBz$CCz$DCz$ECz$FCz$GCz$z$HCz$uBz$ICz$JCz$KCz$ICz$LCz$MCz$z$NCz$uBz$OCz$PCz$xBz$yBz$ACz$z$QCz$uBz$RCz$SCz$xBz$yBz$ACz$z$TCz$uBz$UCz$oz$VCz$WCz$XCz$z$YCz$LCz$MCz$z$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$z$mCz"
+# Decrypted by Sonzai-X
+
+NC='\e[0m'
+DEFBOLD='\e[39;1m'
+RB='\e[31;1m'
+GB='\e[32;1m'
+YB='\e[33;1m'
+BB='\e[34;1m'
+MB='\e[35;1m'
+CB='\e[35;1m'
+WB='\e[37;1m'
+clear
+echo -e "${BB}————————————————————————————————————————————————————————${NC}"
+echo -e "             ${WB}----- [ Shadowsocks Menu ] -----${NC}           "
+echo -e "${BB}————————————————————————————————————————————————————————${NC}"
+echo -e ""
+echo -e " ${MB}[1]${NC} ${YB}Create Account Shadowsocks${NC} "
+echo -e " ${MB}[2]${NC} ${YB}Trial Account Shadowsocks${NC} "
+echo -e " ${MB}[3]${NC} ${YB}Extend Account Shadowsocks${NC} "
+echo -e " ${MB}[4]${NC} ${YB}Delete Account Shadowsocks${NC} "
+echo -e " ${MB}[5]${NC} ${YB}Check User Login${NC} "
+echo -e ""
+echo -e " ${MB}[0]${NC} ${YB}Back To Menu${NC}"
+echo -e ""
+echo -e "${BB}————————————————————————————————————————————————————————${NC}"
+echo -e ""
+read -p " Select menu :  "  opt
+echo -e ""
+case $opt in
+1) clear ; add-ss ; exit ;;
+2) clear ; trialss ; exit ;;
+3) clear ; extend-ss ; exit ;;
+4) clear ; del-ss ; exit ;;
+5) clear ; cek-ss ; exit ;;
+0) clear ; menu ; exit ;;
+x) exit ;;
+*) echo -e "salah tekan " ; sleep 1 ; shadowsocks ;;
+esac

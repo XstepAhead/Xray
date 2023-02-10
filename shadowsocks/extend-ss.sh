@@ -1,3 +1,60 @@
-z="
-";vBz='" ${';gBz='1 -s';jDz='$mas';TEz='YB}C';yz=' -e ';kBz='s an';sz='S} =';Mz='2;1m';lCz=' : "';cBz='C}"';uDz='d"`';JEz='t xr';BBz='B}——';gDz='exp3';Ez='OLD=';Yz='NUMB';Pz='BB='\''';NCz='son"';Jz='1;1m';gz='^#! ';eBz='read';lDz='if))';aDz='=$((';lBz='y ke';REz='ed${';LEz=' ${W';tz='= '\''0';sBz='owso';xCz=' " m';nCz=' -z ';sDz='"%Y-';jBz='Pres';nDz='=`da';MCz='ig.j';rCz='n';pz='on")';xz='echo';QCz='d '\'' ';xBz='ser ';QDz='d1=$';Oz='3;1m';Sz='5;1m';bCz='p en';ABz='"${B';PDz='m-%d';FDz='r" "';dz='grep';gCz=' -rp';eDz=' 864';jCz='User';pCz='r ];';qz='if [';Gz='39;1';RCz=''\'' -f';Lz='GB='\''';OBz='coun';BCz='${NC';dEz='} $e';NEz='t Su';HBz='  ${';Hz='RB='\''';ECz='"^#!';QEz='tend';DDz='ep -';uCz='"Exp';Fz=''\''\e[';ez=' -c ';ZCz='"${Y';mCz=' use';LDz='now=';bEz='ed O';iDz='2 + ';VCz=' | s';YDz='ow" ';Uz='WB='\''';ODz='%Y-%';DBz='——${';dCz='to g';RBz='   "';hCz=' "In';XEz='} $u';GCz='/usr';ZDz='exp2';HCz='/loc';SDz='e -d';MBz='sock';SCz=' 2-3';fDz='00 )';kz='l/et';rDz='s" +';Kz=''\''';Xz='r';WDz='d2=$';rz='[ ${';vCz=' (da';CCz='}  "';KEz='ay';cDz=' - d';QBz='C}  ';hz='" "/';hBz=' -r ';ZEz='YB}E';SBz='"  $';YCz='iq';WEz='me :';mBz='y to';IDz='t | ';Az='NC='\''';yBz=' Exp';GBz='    ';CBz='————';dDz='2) /';FCz=' " "';SEz='NC} ';kCz='name';PEz='s Ex';BEz='user';OEz='cces';uBz='fi';fz='-E "';Cz='m'\''';wBz='YB}U';qCz=' the';EBz='NC}"';pDz='d "$';VDz='+%s)';MDz='$(da';kDz='aakt';tCz=' -p ';eCz='o ba';HDz=' sor';WBz=' no ';Bz='\e[0';IBz='WB}E';RDz='(dat';JDz='uniq';cz='S=$(';nz='onfi';iBz='-p "';oDz='te -';OCz=' | c';cEz='n  :';iz='usr/';CDz='$(gr';jz='loca';tBz='cks';fCz='ck${';Nz='YB='\''';aBz='ents';ACz='ired';NBz='s Ac';nBz=' bac';ZBz=' cli';yDz='r/c\';XDz=' "$n';DEz='p4" ';bDz=' (d1';mz='ay/c';Vz='7;1m';pBz=' men';Wz='clea';eEz='xp4"';aEz='xpir';dBz=' ""';MEz='B}Sh';aCz='B}ta';FBz='"   ';qBz='u"';xDz='/#! ';UCz='n -t';DCz=' -E ';vDz='sed ';oz='g.js';KBz='d Sh';TBz='{YB}';UEz='lien';Qz='4;1m';lz='c/xr';JBz='xten';Zz='ER_O';Dz='DEFB';hDz='$exp';Tz='CB='\''';PCz='ut -';LCz='conf';mDz='exp4';fBz=' -n ';FEz='syst';wCz='ys):';JCz='tc/x';VEz='t Na';bz='IENT';KCz='ray/';TDz=' "$e';ICz='al/e';YBz='ting';az='F_CL';HEz='l re';rBz='shad';LBz='adow';CEz=' $ex';VBz='have';BDz='exp=';NDz='te +';UDz='xp" ';Rz='MB='\''';GEz='emct';IEz='star';AEz='#! $';wz='en';EDz='wE "';cCz='ter ';oBz='k on';GDz=' 3 |';qDz=' day';XBz='exis';oCz='$use';iCz='put ';UBz='You ';EEz='son';tDz='%m-%';Iz='\e[3';TCz='olum';XCz='| un';sCz='else';vz='; th';uz=''\'' ]]';yCz='asaa';wDz='-i "';bBz='!${N';WCz='ort ';YEz='ser"';ADz='ktif';PBz='t${N';KDz=')';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Cz$z$Hz$Iz$Jz$Kz$z$Lz$Iz$Mz$Kz$z$Nz$Iz$Oz$Kz$z$Pz$Iz$Qz$Kz$z$Rz$Iz$Sz$Kz$z$Tz$Iz$Sz$Kz$z$Uz$Iz$Vz$Kz$z$Wz$Xz$z$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$z$qz$rz$Yz$Zz$az$bz$sz$tz$uz$vz$wz$z$Wz$Xz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$FBz$GBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$dBz$z$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$z$rBz$sBz$tBz$z$uBz$z$Wz$Xz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$FBz$GBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$dz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$OCz$TCz$UCz$VCz$WCz$XCz$YCz$z$xz$dBz$z$xz$yz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$EBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$eBz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$Xz$z$qz$nCz$oCz$pCz$qCz$rCz$z$rBz$sBz$tBz$z$sCz$z$eBz$tCz$uCz$ACz$vCz$wCz$xCz$yCz$ADz$z$BDz$CDz$DDz$EDz$gz$oCz$FDz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$GDz$HDz$IDz$JDz$KDz$z$LDz$MDz$NDz$ODz$PDz$KDz$z$QDz$RDz$SDz$TDz$UDz$VDz$z$WDz$RDz$SDz$XDz$YDz$VDz$z$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$KDz$z$gDz$aDz$hDz$iDz$jDz$kDz$lDz$z$mDz$nDz$oDz$pDz$gDz$qDz$rDz$sDz$tDz$uDz$z$vDz$wDz$xDz$oCz$yDz$AEz$BEz$CEz$DEz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$EEz$z$FEz$GEz$HEz$IEz$JEz$KEz$z$Wz$Xz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$FBz$GBz$LEz$MEz$LBz$MBz$NBz$OBz$NEz$OEz$PEz$QEz$REz$SEz$GBz$RBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$vBz$TEz$UEz$VEz$WEz$BCz$XEz$YEz$z$xz$yz$vBz$ZEz$aEz$bEz$cEz$BCz$dEz$eEz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$dBz$z$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$z$Wz$Xz$z$rBz$sBz$tBz$z$uBz"
+# Decrypted by Sonzai-X
+
+NC='\e[0m'
+DEFBOLD='\e[39;1m'
+RB='\e[31;1m'
+GB='\e[32;1m'
+YB='\e[33;1m'
+BB='\e[34;1m'
+MB='\e[35;1m'
+CB='\e[35;1m'
+WB='\e[37;1m'
+clear
+NUMBER_OF_CLIENTS=$(grep -c -E "^#! " "/usr/local/etc/xray/config.json")
+if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+clear
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "             ${WB}Extend Shadowsocks Account${NC}     "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "  ${YB}You have no existing clients!${NC}"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+shadowsocks
+fi
+clear
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "             ${WB}Extend Shadowsocks Account${NC}     "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e " ${YB}User  Expired${NC}  "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+grep -E "^#! " "/usr/local/etc/xray/config.json" | cut -d ' ' -f 2-3 | column -t | sort | uniq
+echo ""
+echo -e "${YB}tap enter to go back${NC}"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+read -rp "Input Username : " user
+if [ -z $user ]; then
+shadowsocks
+else
+read -p "Expired (days): " masaaktif
+exp=$(grep -wE "^#! $user" "/usr/local/etc/xray/config.json" | cut -d ' ' -f 3 | sort | uniq)
+now=$(date +%Y-%m-%d)
+d1=$(date -d "$exp" +%s)
+d2=$(date -d "$now" +%s)
+exp2=$(( (d1 - d2) / 86400 ))
+exp3=$(($exp2 + $masaaktif))
+exp4=`date -d "$exp3 days" +"%Y-%m-%d"`
+sed -i "/#! $user/c\#! $user $exp4" /usr/local/etc/xray/config.json
+systemctl restart xray
+clear
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "        ${WB}Shadowsocks Account Success Extended${NC}        "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e " ${YB}Client Name :${NC} $user"
+echo -e " ${YB}Expired On  :${NC} $exp4"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+clear
+shadowsocks
+fi

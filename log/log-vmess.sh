@@ -1,3 +1,44 @@
-z="
-";gz='^#@ ';iBz='s an';VBz='exis';LBz='s Ac';ZCz='p en';wz='en';RCz='olum';NCz='ut -';DBz='——${';qCz='else';tz='= '\''0';wCz='ss-$';ACz='}  "';TCz=' | s';tBz='" ${';LCz='son"';tCz='user';MBz='coun';nz='onfi';Mz='2;1m';Cz='m'\''';bBz=' ""';IBz='{WB}';sz='S} =';cBz='read';Bz='\e[0';YBz='ents';wBz=' Exp';mz='ay/c';pCz='n';iCz='name';Oz='3;1m';OCz='d '\'' ';Pz='BB='\''';yCz='"`"';jz='loca';FCz='/loc';UBz=' no ';Rz='MB='\''';ez=' -c ';kz='l/et';nBz=' men';sBz='fi';FBz='"   ';Yz='NUMB';fBz=' -r ';rz='[ ${';qBz='crea';az='F_CL';Nz='YB='\''';QCz=' 2-3';ABz='"${B';Fz=''\''\e[';cz='S=$(';ECz='/usr';Vz='7;1m';yz=' -e ';dz='grep';uBz='YB}U';eBz='1 -s';lz='c/xr';kCz=' use';gBz='-p "';Uz='WB='\''';qz='if [';KCz='ig.j';PCz=''\'' -f';Xz='r';aBz='C}"';pBz='log-';oz='g.js';MCz=' | c';GBz='    ';Az='NC='\''';QBz='"  $';xz='echo';bz='IENT';cCz='o ba';xCz='.txt';gCz='put ';WBz='ting';dBz=' -n ';NBz='t${N';nCz='r ];';BCz=' -E ';DCz=' " "';YCz='B}ta';JCz='conf';TBz='have';iz='usr/';Wz='clea';jBz='y ke';KBz='Vmes';uz=''\'' ]]';vz='; th';Lz='GB='\''';WCz='iq';mBz='k on';SCz='n -t';rBz='te';Ez='OLD=';UCz='ort ';dCz='ck${';lCz=' -z ';vBz='ser ';OBz='C}  ';kBz='y to';Qz='4;1m';oBz='u"';pz='on")';jCz=' : "';Iz='\e[3';RBz='{YB}';rCz='"`ca';hBz='Pres';uCz='/log';Hz='RB='\''';CCz='"^#@';sCz='t "/';ZBz='!${N';JBz='Log ';hCz='User';Tz='CB='\''';Zz='ER_O';Sz='5;1m';XBz=' cli';oCz=' the';vCz='-vme';HCz='tc/x';Gz='39;1';bCz='to g';yBz='${NC';XCz='"${Y';fz='-E "';PBz='   "';VCz='| un';CBz='————';eCz=' -rp';HBz='   $';mCz='$use';lBz=' bac';SBz='You ';aCz='ter ';Jz='1;1m';hz='" "/';Kz=''\''';xBz='ired';fCz=' "In';EBz='NC}"';ICz='ray/';GCz='al/e';Dz='DEFB';BBz='B}——';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Cz$z$Hz$Iz$Jz$Kz$z$Lz$Iz$Mz$Kz$z$Nz$Iz$Oz$Kz$z$Pz$Iz$Qz$Kz$z$Rz$Iz$Sz$Kz$z$Tz$Iz$Sz$Kz$z$Uz$Iz$Vz$Kz$z$Wz$Xz$z$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$z$qz$rz$Yz$Zz$az$bz$sz$tz$uz$vz$wz$z$Wz$Xz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$FBz$GBz$GBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$GBz$GBz$GBz$PBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$bBz$z$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$z$pBz$qBz$rBz$z$sBz$z$Wz$Xz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$FBz$GBz$GBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$GBz$GBz$GBz$PBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$dz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$MCz$RCz$SCz$TCz$UCz$VCz$WCz$z$xz$bBz$z$xz$yz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$EBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$cBz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$Xz$z$qz$lCz$mCz$nCz$oCz$pCz$z$pBz$qBz$rBz$z$qCz$z$Wz$Xz$z$xz$yz$rCz$sCz$tCz$uCz$vCz$wCz$tCz$xCz$yCz$z$xz$bBz$z$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$z$pBz$qBz$rBz$z$sBz"
+# Decrypted by Sonzai-X
+
+NC='\e[0m'
+DEFBOLD='\e[39;1m'
+RB='\e[31;1m'
+GB='\e[32;1m'
+YB='\e[33;1m'
+BB='\e[34;1m'
+MB='\e[35;1m'
+CB='\e[35;1m'
+WB='\e[37;1m'
+clear
+NUMBER_OF_CLIENTS=$(grep -c -E "^#@ " "/usr/local/etc/xray/config.json")
+if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+clear
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "                  ${WB}Log Vmess Account${NC}                 "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "  ${YB}You have no existing clients!${NC}"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+log-create
+fi
+clear
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "                  ${WB}Log Vmess Account${NC}                 "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e " ${YB}User  Expired${NC}  "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+grep -E "^#@ " "/usr/local/etc/xray/config.json" | cut -d ' ' -f 2-3 | column -t | sort | uniq
+echo ""
+echo -e "${YB}tap enter to go back${NC}"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+read -rp "Input Username : " user
+if [ -z $user ]; then
+log-create
+else
+clear
+echo -e "`cat "/user/log-vmess-$user.txt"`"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+log-create
+fi

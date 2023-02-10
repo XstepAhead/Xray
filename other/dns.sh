@@ -1,3 +1,27 @@
-z="
-";XBz=' Ren';jz='/Hos';GBz=' men';bz='B}——';rz='n';Xz='r';TBz='B}Do';Oz='3;1m';oz='$hos';Rz='MB='\''';MBz='ost"';bBz='"';mz='if [';PBz='lib/';QBz='dnsv';Lz='GB='\''';aBz='{NC}';Pz='BB='\''';IBz='dns';qz=' the';Yz='echo';Fz=''\''\e[';FBz='k on';iz='main';ez='NC}"';vz=' -n ';Nz='YB='\''';Jz='1;1m';yz='-p "';VBz='orge';JBz='else';Mz='2;1m';gz=' -rp';KBz=' "DN';Bz='\e[0';az='"${B';OBz='var/';Sz='5;1m';ZBz='ert$';cz='————';Vz='7;1m';SBz='onf';hz=' "Do';BBz='s an';pz='t ];';ABz='Pres';Gz='39;1';Qz='4;1m';Cz='m'\''';UBz='nt F';kz='t: "';WBz='t To';sz='"${Y';eBz='fi';fz='read';NBz=' > /';cBz=' ""';Az='NC='\''';Iz='\e[3';Dz='DEFB';CBz='y ke';EBz=' bac';Uz='WB='\''';Zz=' -e ';uz='??${';HBz='u"';lz='host';LBz='S=$h';Hz='RB='\''';dBz='menu';tz='B}??';YBz='ew C';RBz='ps.c';Tz='CB='\''';nz=' -z ';xz=' -r ';Ez='OLD=';Kz=''\''';Wz='clea';dz='——${';wz='1 -s';DBz='y to';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Cz$z$Hz$Iz$Jz$Kz$z$Lz$Iz$Mz$Kz$z$Nz$Iz$Oz$Kz$z$Pz$Iz$Qz$Kz$z$Rz$Iz$Sz$Kz$z$Tz$Iz$Sz$Kz$z$Uz$Iz$Vz$Kz$z$Wz$Xz$z$Yz$Zz$az$bz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$dz$ez$z$fz$gz$hz$iz$jz$kz$Zz$lz$z$mz$nz$oz$pz$qz$rz$z$Yz$Zz$sz$tz$uz$ez$z$Yz$Zz$az$bz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$dz$ez$z$fz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$z$IBz$z$JBz$z$Yz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$z$Yz$Zz$az$bz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$cz$dz$ez$z$Yz$Zz$sz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$z$Yz$cBz$z$fz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$z$dBz$z$eBz"
+# Decrypted by Sonzai-X
+
+NC='\e[0m'
+DEFBOLD='\e[39;1m'
+RB='\e[31;1m'
+GB='\e[32;1m'
+YB='\e[33;1m'
+BB='\e[34;1m'
+MB='\e[35;1m'
+CB='\e[35;1m'
+WB='\e[37;1m'
+clear
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+read -rp "Domain/Host: " -e host
+if [ -z $host ]; then
+echo -e "${YB}????${NC}"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+read -n 1 -s -r -p "Press any key to back on menu"
+dns
+else
+echo "DNS=$host" > /var/lib/dnsvps.conf
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "${YB}Dont Forget To Renew Cert${NC}"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+fi

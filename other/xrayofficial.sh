@@ -1,3 +1,23 @@
-z="
-";SBz='l re';ABz='cial';FBz='al/b';Sz='5;1m';Az='NC='\''';bz='INFO';Iz='\e[3';Jz='1;1m';ez='${YB';ZBz='{NC}';Wz='echo';Kz=''\''';IBz='chmo';Pz='BB='\''';VBz='slee';EBz='/loc';Tz='CB='\''';DBz='/usr';WBz='p 1';Rz='MB='\''';LBz='sr/l';tz='ay';bBz='"${Y';CBz='kup ';OBz='/xra';wz='up/x';qz='loca';JBz='d 75';kz='fici';Hz='RB='\''';gz='nge ';GBz='in/x';Nz='YB='\''';Dz='DEFB';Qz='4;1m';dBz='ck t';mz='NC}"';eBz='o me';uz='cp /';RBz='emct';Mz='2;1m';Gz='39;1';KBz='5 /u';Fz=''\''\e[';Yz=' -e ';QBz='syst';vz='back';Bz='\e[0';TBz='star';cz=' ]${';nz='rm -';hz='Xray';sz='n/xr';PBz='y';lz='al${';BBz='.bac';yz='offi';fz='}Cha';fBz='nu i';Lz='GB='\''';Uz='WB='\''';cBz='B}Ba';NBz='/bin';Vz='7;1m';YBz='one$';dz='NC} ';rz='l/bi';Cz='m'\''';Ez='OLD=';hBz='sec$';HBz='ray';aBz='"';xz='ray.';jBz='menu';az='B}[ ';UBz='t xr';Xz=' ""';Oz='3;1m';jz='e Of';Zz='"${G';oz='rf /';gBz='n 1 ';pz='usr/';iBz=' "';XBz='al d';MBz='ocal';iz='-cor';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Cz$z$Hz$Iz$Jz$Kz$z$Lz$Iz$Mz$Kz$z$Nz$Iz$Oz$Kz$z$Pz$Iz$Qz$Kz$z$Rz$Iz$Sz$Kz$z$Tz$Iz$Sz$Kz$z$Uz$Iz$Vz$Kz$z$Wz$Xz$z$Wz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$z$nz$oz$pz$qz$rz$sz$tz$z$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$z$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$z$QBz$RBz$SBz$TBz$UBz$tz$z$VBz$WBz$z$Wz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$XBz$YBz$ZBz$aBz$z$Wz$Xz$z$Wz$Yz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$ZBz$iBz$z$VBz$WBz$z$jBz"
+# Decrypted by Sonzai-X
+
+NC='\e[0m'
+DEFBOLD='\e[39;1m'
+RB='\e[31;1m'
+GB='\e[32;1m'
+YB='\e[33;1m'
+BB='\e[34;1m'
+MB='\e[35;1m'
+CB='\e[35;1m'
+WB='\e[37;1m'
+echo ""
+echo -e "${GB}[ INFO ]${NC} ${YB}Change Xray-core Official${NC}"
+rm -rf /usr/local/bin/xray
+cp /backup/xray.official.backup /usr/local/bin/xray
+chmod 755 /usr/local/bin/xray
+systemctl restart xray
+sleep 1
+echo -e "${GB}[ INFO ]${NC} ${YB}Change Xray-core Official done${NC}"
+echo ""
+echo -e "${YB}Back to menu in 1 sec${NC} "
+sleep 1
+menu

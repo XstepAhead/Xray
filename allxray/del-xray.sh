@@ -1,3 +1,54 @@
-z="
-";CBz='B}——';Kz=''\''';VDz='rm -';FEz='ed O';wDz='YB}C';aDz='/all';Mz='2;1m';Pz='BB='\''';dBz='read';Oz='3;1m';mDz='ay';ODz='loca';OCz='-d '\''';WBz=' no ';aCz='B}ta';uCz='$(gr';cDz='er.t';ABz=' -e ';mBz=' bac';LCz='json';sCz='else';RBz='   "';jDz='l re';YBz='ting';DEz='YB}E';mz='ray/';lCz=' : "';CCz='"^#&';dCz='to g';BCz=' -E ';bBz='!${N';JDz='$exp';Lz='GB='\''';ACz='}  "';oBz=' men';jBz='s an';sBz='fi';CDz='rt |';KBz='Dele';iBz='Pres';eCz='o ba';NCz='cut ';Rz='MB='\''';bCz='p en';DCz='@ " ';XBz='exis';sDz='cess';UCz='t | ';BBz='"${B';ECz='"/us';uDz='eted';fBz='1 -s';eBz=' -n ';oCz='$use';Uz='WB='\''';MDz='d" /';iz='/usr';AEz='me :';NDz='usr/';QBz='{NC}';ICz='xray';cBz='C}"';hCz=' "In';Az='NC='\''';rz='if [';ZCz='"${Y';Bz='\e[0';PCz=' '\'' -';xCz=' $us';tCz='exp=';Sz='5;1m';ZDz='html';GDz='-i "';sz='[ ${';kDz='star';GCz='cal/';Nz='YB='\''';MBz='ll X';CEz='ser"';aBz='ents';IEz='xp"';oz='ig.j';rBz='ray';hz=' " "';YDz='www/';kCz='name';LDz='},{/';Tz='CB='\''';fDz='/log';Jz='1;1m';GBz='"   ';wCz='wE "';gCz=' -rp';LBz='te A';iCz='put ';nBz='k on';cCz='ter ';HCz='etc/';qDz='ount';TBz='{YB}';BDz='| so';yz='echo';tDz=' Del';DDz=' uni';tz='S} =';HBz='    ';ADz='f 3 ';nz='conf';ez=' -c ';YCz=' ""';VBz='have';UDz='on';PBz='unt$';bz='IENT';Dz='DEFB';nDz='All ';qBz='allx';VCz='sort';jz='/loc';DBz='————';tBz='" ${';Hz='RB='\''';IBz='   $';rDz=' Suc';xz='en';lDz='t xr';iDz='emct';MCz='" | ';SDz='onfi';GEz='n  :';xDz='lien';JCz='/con';wz='; th';HEz='} $e';xBz='ired';pBz='u"';gDz='-all';yBz='${NC';kz='al/e';yCz='er" ';vCz='ep -';RCz='3 | ';yDz='t Na';lBz='y to';hBz='-p "';Cz='m'\''';uBz='YB}U';XDz='var/';UBz='You ';vDz='}   ';IDz='@ $u';HDz='/^#&';eDz='user';pz='son"';Gz='39;1';hDz='syst';EDz='q)';FBz='NC}"';BEz='} $u';OBz='Acco';wBz=' Exp';qz=')';TDz='g.js';Yz='NUMB';qCz=' the';fz='-E "';vBz='ser ';jCz='User';pDz=' Acc';fCz='ck${';Ez='OLD=';vz=''\'' ]]';PDz='l/et';gz='^#&@';pCz='r ];';TCz='mn -';SCz='colu';cz='S=$(';nCz=' -z ';EEz='xpir';rCz='n';QCz='f 2-';oDz='Xray';EBz='——${';WDz='rf /';KDz='/,/^';Vz='7;1m';JBz='{WB}';dz='grep';Zz='ER_O';uz='= '\''0';XCz='niq';Fz=''\''\e[';KCz='fig.';WCz=' | u';gBz=' -r ';FCz='r/lo';dDz='xt';mCz=' use';Xz='r';Iz='\e[3';QDz='c/xr';az='F_CL';FDz='sed ';Wz='clea';NBz='ray ';lz='tc/x';ZBz=' cli';RDz='ay/c';bDz='-$us';SBz='"  $';Qz='4;1m';kBz='y ke';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Cz$z$Hz$Iz$Jz$Kz$z$Lz$Iz$Mz$Kz$z$Nz$Iz$Oz$Kz$z$Pz$Iz$Qz$Kz$z$Rz$Iz$Sz$Kz$z$Tz$Iz$Sz$Kz$z$Uz$Iz$Vz$Kz$z$Wz$Xz$z$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$z$rz$sz$Yz$Zz$az$bz$tz$uz$vz$wz$xz$z$Wz$Xz$z$yz$ABz$BBz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz$FBz$z$yz$ABz$GBz$HBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$HBz$HBz$HBz$RBz$z$yz$ABz$BBz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz$FBz$z$yz$ABz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$z$yz$ABz$BBz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz$FBz$z$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$z$qBz$rBz$z$sBz$z$Wz$Xz$z$yz$ABz$BBz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz$FBz$z$yz$ABz$GBz$HBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$HBz$HBz$HBz$RBz$z$yz$ABz$BBz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz$FBz$z$yz$ABz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$z$yz$ABz$BBz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz$FBz$z$dz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$z$yz$YCz$z$yz$ABz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$FBz$z$yz$ABz$BBz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz$FBz$z$dBz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$Xz$z$rz$nCz$oCz$pCz$qCz$rCz$z$qBz$rBz$z$sCz$z$tCz$uCz$vCz$wCz$gz$xCz$yCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$ADz$BDz$CDz$DDz$EDz$z$FDz$GDz$HDz$IDz$vBz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$z$VDz$WDz$XDz$YDz$ZDz$aDz$ICz$aDz$ICz$bDz$cDz$dDz$z$VDz$WDz$eDz$fDz$gDz$ICz$bDz$cDz$dDz$z$hDz$iDz$jDz$kDz$lDz$mDz$z$Wz$Xz$z$yz$ABz$BBz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz$FBz$z$yz$ABz$GBz$HBz$IBz$JBz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$yBz$vDz$HBz$RBz$z$yz$ABz$BBz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz$FBz$z$yz$ABz$tBz$wDz$xDz$yDz$AEz$yBz$BEz$CEz$z$yz$ABz$tBz$DEz$EEz$FEz$GEz$yBz$HEz$IEz$z$yz$ABz$BBz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz$FBz$z$yz$YCz$z$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$z$Wz$Xz$z$qBz$rBz$z$sBz"
+# Decrypted by Sonzai-X
+
+NC='\e[0m'
+DEFBOLD='\e[39;1m'
+RB='\e[31;1m'
+GB='\e[32;1m'
+YB='\e[33;1m'
+BB='\e[34;1m'
+MB='\e[35;1m'
+CB='\e[35;1m'
+WB='\e[37;1m'
+clear
+NUMBER_OF_CLIENTS=$(grep -c -E "^#&@ " "/usr/local/etc/xray/config.json")
+if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+clear
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "              ${WB}Delete All Xray Account${NC}               "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "  ${YB}You have no existing clients!${NC}"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+read -n 1 -s -r -p "Press any key to back on menu"
+allxray
+fi
+clear
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "              ${WB}Delete All Xray Account${NC}               "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e " ${YB}User  Expired${NC}  "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+grep -E "^#&@ " "/usr/local/etc/xray/config.json" | cut -d ' ' -f 2-3 | column -t | sort | uniq
+echo ""
+echo -e "${YB}tap enter to go back${NC}"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+read -rp "Input Username : " user
+if [ -z $user ]; then
+allxray
+else
+exp=$(grep -wE "^#&@ $user" "/usr/local/etc/xray/config.json" | cut -d ' ' -f 3 | sort | uniq)
+sed -i "/^#&@ $user $exp/,/^},{/d" /usr/local/etc/xray/config.json
+rm -rf /var/www/html/allxray/allxray-$user.txt
+rm -rf /user/log-allxray-$user.txt
+systemctl restart xray
+clear
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "          ${WB}All Xray Account Success Deleted${NC}          "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e " ${YB}Client Name :${NC} $user"
+echo -e " ${YB}Expired On  :${NC} $exp"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+clear
+allxray
+fi

@@ -1,3 +1,48 @@
-z="
-";uz='d '\'' ';Zz=' -n ';WBz='akun';Fz=''\''\e[';XBz=' in ';TCz='n "$';oBz='vmes';DDz='| un';RCz=')';IBz='"   ';jz='al/e';rDz='| nl';hDz='ev/n';Kz=''\''';GBz='——${';sCz='s/tc';bz='p/ot';hBz=' the';wCz='-f 1';MBz='Vles';fBz='kun"';AEz='othe';YDz='txt)';ZCz='$(ca';QBz=' Acc';fCz='og |';TDz='=$(c';mDz='xt)';nz='ig.j';QDz=' "$i';ZBz='ata[';VDz='tmp/';kDz='done';qCz=' | s';Iz='\e[3';SBz='${NC';VCz='a2[@';PCz=' | u';BEz='r.tx';cBz='if [';KEz='y to';RDz='p" >';OBz='er L';LDz='mp/i';jDz='2>&1';nCz=' -d ';kz='tc/x';cDz='" /t';yz='t | ';Cz='m'\''';nBz='p/ip';FDz='[ "$';NEz=' men';BCz='tail';Xz='r';Dz='DEFB';EBz='B}——';UBz='   "';BDz='$ip"';VBz='for ';Gz='39;1';FEz=' -r ';tDz='er :';aDz='/$ju';FBz='————';MDz='pvme';dCz='acce';Lz='GB='\''';tBz=' /va';lz='ray/';ez='data';ABz='uniq';vz=''\'' -f';QCz='niq)';ZDz='-i "';Yz='echo';vCz='":" ';Ez='OLD=';iDz='ull ';eBz=' "$a';PEz='vles';az='>/tm';DEz='read';aBz='@]}"';hCz='p -w';PDz='else';mBz='fi';eDz='ther';LCz='/g'\'' ';OCz='sort';gBz=' ]];';gDz=' >/d';GDz='jum"';XDz='ess.';SDz='jum2';UDz='at /';qDz='txt ';jCz='ail ';ACz='g | ';MEz='k on';Uz='WB='\''';lBz='Ada"';JDz='um" ';CCz='500 ';ODz='xt';GCz=' -f ';wz=' 2 |';XCz=' do';Jz='1;1m';QEz='s';OEz='u"';Hz='RB='\''';vDz='un"';dBz='[ -z';UCz='{dat';rz='^#='\''';Nz='YB='\''';Sz='5;1m';kBz='dak ';EDz='iq)';WDz='ipvm';sDz=' "us';xDz='rm -';fDz='.txt';qz='ep '\''';uDz=' $ak';ECz='t -d';Oz='3;1m';NDz='ss.t';eCz='ss.l';yDz='rf /';Rz='MB='\''';KBz='   $';ICz='sed ';DCz='| cu';HCz='3 | ';iCz=' | t';Pz='BB='\''';KDz='>>/t';oz='son ';lCz='00 |';xBz='cces';wDz='um2"';sz=' | c';bDz='m2/d';hz='/usr';uBz='r/lo';iz='/loc';PBz='ogin';nDz=']]; ';dz='txt';tCz='p://';iBz='n';lDz='t /t';cz='her.';uCz='g'\'' |';HDz=' = "';WCz=']}";';LBz='{WB}';bCz='ar/l';kCz='-n 5';mCz=' cut';yBz='s.lo';tz='ut -';bBz='; do';DBz='"${B';IDz=' "$j';IEz='s an';rBz='2=($';fz='=($(';wBz='ay/a';CBz=' -e ';GEz='-p "';FCz=' " "';Bz='\e[0';Qz='4;1m';NBz='s Us';dDz='mp/o';gCz=' gre';EEz='1 -s';SCz='ip i';oCz='" " ';xz=' sor';KCz='cp:/';Wz='clea';gz='cat ';JEz='y ke';sBz='(cat';pBz='s.tx';JBz='    ';cCz='og/x';YCz='jum=';qBz='t';pz='| gr';Tz='CB='\''';yCz='rep ';aCz='t /v';RBz='ount';JCz=''\''s/t';oDz='then';pDz='ull';HBz='NC}"';jBz='="Ti';LEz=' bac';mz='conf';YBz='"${d';Az='NC='\''';rCz='ed '\''';Vz='7;1m';HEz='Pres';TBz='}   ';MCz=' ":"';Mz='2;1m';ADz='-w "';CDz='ort ';NCz='1 | ';pCz='-f 3';CEz=' ""';vBz='g/xr';xCz=' | g';BBz='))';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Cz$z$Hz$Iz$Jz$Kz$z$Lz$Iz$Mz$Kz$z$Nz$Iz$Oz$Kz$z$Pz$Iz$Qz$Kz$z$Rz$Iz$Sz$Kz$z$Tz$Iz$Sz$Kz$z$Uz$Iz$Vz$Kz$z$Wz$Xz$z$Yz$Zz$az$bz$cz$dz$z$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$z$Yz$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$HBz$z$Yz$CBz$IBz$JBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$JBz$JBz$UBz$z$Yz$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$HBz$z$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$z$cBz$dBz$eBz$fBz$gBz$hBz$iBz$z$WBz$jBz$kBz$lBz$z$mBz$z$Yz$Zz$az$nBz$oBz$pBz$qBz$z$ez$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$Zz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$DCz$ECz$MCz$GCz$NCz$OCz$PCz$QCz$RCz$z$VBz$SCz$TCz$UCz$VCz$WCz$XCz$z$YCz$ZCz$aCz$bCz$cCz$lz$dCz$eCz$fCz$gCz$hCz$eBz$fBz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$mCz$nCz$vCz$wCz$xCz$yCz$ADz$BDz$qCz$CDz$DDz$EDz$z$cBz$FDz$GDz$HDz$BDz$gBz$hBz$iBz$z$Yz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$z$PDz$z$Yz$QDz$RDz$az$bz$cz$dz$z$mBz$z$SDz$TDz$UDz$VDz$WDz$XDz$YDz$z$ICz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$z$kDz$z$YCz$ZCz$lDz$LDz$MDz$NDz$mDz$z$cBz$dBz$IDz$JDz$nDz$oDz$z$Yz$gDz$hDz$pDz$z$PDz$z$SDz$TDz$UDz$VDz$WDz$XDz$qDz$rDz$RCz$z$Yz$sDz$tDz$uDz$vDz$z$Yz$IDz$wDz$z$Yz$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$HBz$z$mBz$z$xDz$yDz$VDz$WDz$XDz$dz$z$kDz$z$xDz$yDz$VDz$AEz$BEz$qBz$z$Yz$CEz$z$DEz$Zz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$z$PEz$QEz"
+# Decrypted by Sonzai-X
+
+NC='\e[0m'
+DEFBOLD='\e[39;1m'
+RB='\e[31;1m'
+GB='\e[32;1m'
+YB='\e[33;1m'
+BB='\e[34;1m'
+MB='\e[35;1m'
+CB='\e[35;1m'
+WB='\e[37;1m'
+clear
+echo -n >/tmp/other.txt
+data=($(cat /usr/local/etc/xray/config.json | grep '^#=' | cut -d ' ' -f 2 | sort | uniq))
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "              ${WB}Vless User Login Account${NC}              "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+for akun in "${data[@]}"; do
+if [[ -z "$akun" ]]; then
+akun="Tidak Ada"
+fi
+echo -n >/tmp/ipvmess.txt
+data2=($(cat /var/log/xray/access.log | tail -n 500 | cut -d " " -f 3 | sed 's/tcp://g' | cut -d ":" -f 1 | sort | uniq))
+for ip in "${data2[@]}"; do
+jum=$(cat /var/log/xray/access.log | grep -w "$akun" | tail -n 500 | cut -d " " -f 3 | sed 's/tcp://g' | cut -d ":" -f 1 | grep -w "$ip" | sort | uniq)
+if [[ "$jum" = "$ip" ]]; then
+echo "$jum" >>/tmp/ipvmess.txt
+else
+echo "$ip" >>/tmp/other.txt
+fi
+jum2=$(cat /tmp/ipvmess.txt)
+sed -i "/$jum2/d" /tmp/other.txt >/dev/null 2>&1
+done
+jum=$(cat /tmp/ipvmess.txt)
+if [[ -z "$jum" ]]; then
+echo >/dev/null
+else
+jum2=$(cat /tmp/ipvmess.txt | nl)
+echo "user : $akun"
+echo "$jum2"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+fi
+rm -rf /tmp/ipvmess.txt
+done
+rm -rf /tmp/other.txt
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+vless
