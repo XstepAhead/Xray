@@ -6,15 +6,7 @@
 - Installing = DWYOR
 
 ### How to install
-
-- Using Wget:
-```
-bash -c "$(wget -qO- https://raw.githubusercontent.com/XstepAhead/Xray/main/xray)"
-```
-- Update If Needed
-```
-bash -c "$(wget -qO- https://raw.githubusercontent.com/XstepAhead/Xray/main/update)"
-```
+PM Me
 ### Screenshot
 ![SS2](https://github.com/XstepAhead/Xray/raw/main/Ss2.jpg)
 ![SS1](https://github.com/XstepAhead/Xray/raw/main/Ss1.jpg)
